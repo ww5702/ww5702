@@ -5,5 +5,6 @@
     height="120"
   />
 </a>
-
-<img src="https://raw.githubusercontent.com/ww5702/ww5702/output/github-contribution-grid-snake.gif" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ww5702/ww5702/output/github-contribution-grid-snake.gif" width="800" />
+</p>
