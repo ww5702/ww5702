@@ -6,7 +6,4 @@
   />
 </a>
 
-<img src="https://raw.githubusercontent.com/ww5702/ww5702/output/github-contribution-grid-snake.svg" />
-
-
-
+<img src="https://raw.githubusercontent.com/ww5702/ww5702/output/github-contribution-grid-snake.gif" />
