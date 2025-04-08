@@ -7,7 +7,8 @@
     width="600"
     height="120"
   />
+  ![snake gif](https://github.com/ww5702/ww5702/blob/output/github-contribution-grid-snake.svg)
 </a>
 
-![snake gif](https://github.com/ww5702/ww5702/blob/output/github-contribution-grid-snake.svg)
+
 
