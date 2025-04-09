@@ -55,10 +55,21 @@
   </tr>
 </table>
 
+<h3 align="center">📊 My Activity</h3>
+
+<p align="center">
+  <a href="https://solved.ac/wow5702/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wow5702" alt="Solved.ac Profile" height="230"/>
+  </a>
+  <a href="https://github.com/ww5702/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ww5702&theme=dracula" alt="GitHub Activity Graph" height="230"/>
+  </a>
+</p>
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wow5702)](https://solved.ac/wow5702/)
 
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wow5702)](https://solved.ac/wow5702/)
+# [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ww5702&theme=dracula)](https://github.com/ww5702/github-readme-activity-graph) -->
 
 <div align = "center">
   <img src = "https://github.com/ww5702/ww5702/blob/output/github-contribution-grid-snake.svg">
