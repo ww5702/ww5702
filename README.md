@@ -14,68 +14,154 @@
 <table align="center">
   <tr>
     <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="100" height="100"><br />
-      <span style="color: #ffffff; font-size: 14px;"><b>Python</b></span>
+      <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" alt="Obsidian" width="80" height="80"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Obsidian</b></span>
     </td>
     <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
-      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="100" height="100"><br />
-      <span style="color: #ffffff; font-size: 14px;"><b>Firebase</b></span>
+      <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" alt="Obsidian" width="80" height="80"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Obsidian</b></span>
     </td>
     <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="100" height="100"><br />
-      <span style="color: #ffffff; font-size: 14px;"><b>Docker</b></span>
+      <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" alt="Obsidian" width="80" height="80"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Obsidian</b></span>
     </td>
     <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
-      <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="Swift" width="100" height="100"><br />
-      <span style="color: #ffffff; font-size: 14px;"><b>Swift</b></span>
+      <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" alt="Obsidian" width="80" height="80"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Obsidian</b></span>
     </td>
     <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
-      <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="100" height="100"><br />
-      <span style="color: #ffffff; font-size: 14px;"><b>Postman</b></span>
+      <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" alt="Obsidian" width="80" height="80"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Obsidian</b></span>
+    </td>
+    <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
+      <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" alt="Obsidian" width="80" height="80"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Obsidian</b></span>
+    </td>
+    <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
+      <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" alt="Obsidian" width="80" height="80"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Obsidian</b></span>
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="100" height="100"><br />
+      <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" alt="Obsidian" width="80" height="80"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Obsidian</b></span>
+    </td>
+    <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="80" height="80"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Python</b></span>
+    </td>
+    <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
+      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="80" height="80"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Firebase</b></span>
+    </td>
+    <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="80" height="80"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Docker</b></span>
+    </td>
+    <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
+      <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="Swift" width="80" height="80"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Swift</b></span>
+    </td>
+    <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
+      <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="80" height="80"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Postman</b></span>
+    </td>
+    <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
+      <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" alt="Obsidian" width="80" height="80"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Obsidian</b></span>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
+      <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" alt="Obsidian" width="80" height="80"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Obsidian</b></span>
+    </td>
+    <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="80" height="80"><br />
       <span style="color: #ffffff; font-size: 14px;"><b>Java</b></span>
     </td>
     <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="100" height="100"><br />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="80" height="80"><br />
       <span style="color: #ffffff; font-size: 14px;"><b>GitHub</b></span>
     </td>
     <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
-      <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="100" height="100"><br />
+      <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="80" height="80"><br />
       <span style="color: #ffffff; font-size: 14px;"><b>Kotlin</b></span>
     </td>
     <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="100" height="100"><br />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="80" height="80"><br />
       <span style="color: #ffffff; font-size: 14px;"><b>JavaScript</b></span>
     </td>
     <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
-      <img src="https://skillicons.dev/icons?i=spring&theme=light" alt="Spring" width="100" height="100"><br />
+      <img src="https://skillicons.dev/icons?i=spring&theme=light" alt="Spring" width="80" height="80"><br />
       <span style="color: #ffffff; font-size: 14px;"><b>Spring</b></span>
+    </td>
+    <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
+      <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" alt="Obsidian" width="80" height="80"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Obsidian</b></span>
     </td>
   </tr>
     <tr>
     <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
-      <img src="https://skillicons.dev/icons?i=vue" alt="vue" width="100" height="100"><br />
+      <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" alt="Obsidian" width="80" height="80"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Obsidian</b></span>
+    </td>
+    <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
+      <img src="https://skillicons.dev/icons?i=vue" alt="vue" width="80" height="80"><br />
       <span style="color: #ffffff; font-size: 14px;"><b>Vue</b></span>
     </td>
     <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="100" height="100"><br />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="80" height="80"><br />
       <span style="color: #ffffff; font-size: 14px;"><b>MySQL</b></span>
     </td>
     <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="100" height="100"><br />
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="80" height="80"><br />
       <span style="color: #ffffff; font-size: 14px;"><b>Kubernetes</b></span>
     </td>
     <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
-      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="100" height="100"><br />
+      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="80" height="80"><br />
       <span style="color: #ffffff; font-size: 14px;"><b>Firebase</b></span>
     </td>
     <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
-      <img src="https://skillicons.dev/icons?i=spring&theme=light" alt="Spring" width="100" height="100"><br />
+      <img src="https://skillicons.dev/icons?i=spring&theme=light" alt="Spring" width="80" height="80"><br />
       <span style="color: #ffffff; font-size: 14px;"><b>Spring</b></span>
+    </td>
+      <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
+      <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" alt="Obsidian" width="80" height="80"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Obsidian</b></span>
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
+      <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" alt="Obsidian" width="80" height="80"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Obsidian</b></span>
+    </td>
+    <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
+      <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" alt="Obsidian" width="80" height="80"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Obsidian</b></span>
+    </td>
+    <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
+      <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" alt="Obsidian" width="80" height="80"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Obsidian</b></span>
+    </td>
+    <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
+      <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" alt="Obsidian" width="80" height="80"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Obsidian</b></span>
+    </td>
+    <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
+      <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" alt="Obsidian" width="80" height="80"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Obsidian</b></span>
+    </td>
+    <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
+      <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" alt="Obsidian" width="80" height="80"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Obsidian</b></span>
+    </td>
+    <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
+      <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" alt="Obsidian" width="80" height="80"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Obsidian</b></span>
+    </td>
   </tr>
     
 </table>
