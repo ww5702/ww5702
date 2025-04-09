@@ -10,11 +10,11 @@
 
 <!-- TechStack Generator 애니메이션 아이콘 -->
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" />
-  <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="swift" width="50"/>
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="200" height = "200"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="200" height = "200" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="200" height = "200" />
+  <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="swift" width="200" height = "200"/>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql"width="200" height = "200" />
 </p>
 
 
