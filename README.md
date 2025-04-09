@@ -57,7 +57,7 @@
 
 
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wow5702)](https://solved.ac/wow5702/)
 
 
 <div align = "center">
