@@ -1,3 +1,78 @@
+# 제목 넣자
+＂해야 하는데＂에서 끝나지 않고 자기 주도적으로 사고하고 도전하는 개발자입니다.
+
+저는 이런사람 입니다.   
+
+새로운 기술과 문제 해결에 대한 도전을 두려워하지 않으며,   
+팀원과의 열린 소통을 통해 함께 성장하는 개발 문화를 지향합니다.   
+협업 속에서 시너지를 만드는 것에 큰 가치를 두고 있습니다.   
+
+## 🔥 Interest 🔥
+- G.AI (Generate AI)
+- LLM (Large Language Model)
+- Front (Vue, React)
+- Mobile (iOS, Android)
+
+## 🎓 Course 🎓
+- 16.03 ~ 22.08 Seokyeong University, Department of Computer Science | 서경대학교 컴퓨터과학과
+- 21.03 ~ 21.12 Research Assistant at the Oopsla University Laboratory | Ooplsa 랩실 조교
+- 25.02 ~ SK AI Leader Academy | SKALA 1기
+
+  
+## 🏆 Experiences 🏆
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Project Name</th>
+      <th>Description</th>
+      <th>Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2021-03 ~ 2021.11</td>
+      <td>Trip_Map</td>
+      <td>사용자가 여행지를 지도에 핀으로 표시하고 관리할 수 있는 AOS 앱입니다.</td>
+      <td>Android, Kotlin, Open API, Firebase</td>
+    </tr>
+    <tr>
+      <td>2023-01 ~ 2023.09</td>
+      <td>ABC</td>
+      <td>Are u Better than Chimpanzee?, 나의 단기기억 능력을 테스트해 보자</td>
+      <td>iOS, Swift, Lottie</td>
+    </tr>
+    <tr>
+      <td>2023-04 ~ </td>
+      <td>Swift_Coding_Test</td>
+      <td>Swift로 다양한 알고리즘 문제를 풀이한 코딩 테스트 대비용 저장소입니다.</td>
+      <td>Swift, Data Structures & Algorithms, Programmers, BackJoon</td>
+    </tr>
+    <tr>
+      <td>2024-04 ~ </td>
+      <td>Java_Coding_Test</td>
+      <td>Java로 다양한 알고리즘 문제를 풀이한 코딩 테스트 대비용 저장소입니다.</td>
+      <td>Java, Data Structures & Algorithms, Programmers, BackJoon</td>
+    </tr>
+    <tr>
+      <td>2025-03 ~ 2025.03</td>
+      <td>Law ChatBot</td>
+      <td>법률 문서를 기반으로 질문에 답변하는 RAG 기반 AI 법률 상담 챗봇입니다.</td>
+      <td>LLM, RAG, ChromaDB, Streamlit, Tabily, SQLite</td>
+    </tr>
+    <tr>
+      <td>2025-04 ~ 2025.04</td>
+      <td>Skala Stock Platform</td>
+      <td>실시간 주식 시세 변동과 가상 거래 기능을 갖춘 풀스택 주식 거래 플랫폼입니다.</td>
+      <td>Vue, Spring, JavaScript, JPA, Docker</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ww5702&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/ww5702?pet-id=695249845766250101"
