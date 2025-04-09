@@ -52,7 +52,7 @@
       <span style="color: #ffffff; font-size: 14px;"><b>Firebase</b></span>
     </td>
     <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
-      <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="100" height="100"><br />
+      <img src="https://skillicons.dev/icons?i=spring&theme=light" alt="Spring" width="100" height="100"><br />
       <span style="color: #ffffff; font-size: 14px;"><b>Spring</b></span>
     </td>
   </tr>
