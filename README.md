@@ -53,6 +53,29 @@
       <sub><b>Spring</b></sub>
     </td>
   </tr>
+  
+  <tr>
+    <td align="center" style="padding:10px;">
+      <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="100" height="100"/><br />
+      <sub><b>Spring</b></sub>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="100" height="100"/><br />
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="100" height="100"/><br />
+      <sub><b>Kotlin</b></sub>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="100" height="100"/><br />
+      <sub><b>Firebase</b></sub>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="100" height="100"/><br />
+      <sub><b>Spring</b></sub>
+    </td>
+  </tr>
 </table>
 
 
