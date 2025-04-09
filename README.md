@@ -18,8 +18,8 @@
       <span style="color: #ffffff; font-size: 14px;"><b>Python</b></span>
     </td>
     <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="100" height="100"><br />
-      <span style="color: #ffffff; font-size: 14px;"><b>JavaScript</b></span>
+      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="100" height="100"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Firebase</b></span>
     </td>
     <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="100" height="100"><br />
@@ -30,8 +30,8 @@
       <span style="color: #ffffff; font-size: 14px;"><b>Swift</b></span>
     </td>
     <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="100" height="100"><br />
-      <span style="color: #ffffff; font-size: 14px;"><b>MySQL</b></span>
+      <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="100" height="100"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Postman</b></span>
     </td>
   </tr>
   <tr>
@@ -48,14 +48,36 @@
       <span style="color: #ffffff; font-size: 14px;"><b>Kotlin</b></span>
     </td>
     <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
-      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="100" height="100"><br />
-      <span style="color: #ffffff; font-size: 14px;"><b>Firebase</b></span>
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="100" height="100"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>JavaScript</b></span>
     </td>
     <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
       <img src="https://skillicons.dev/icons?i=spring&theme=light" alt="Spring" width="100" height="100"><br />
       <span style="color: #ffffff; font-size: 14px;"><b>Spring</b></span>
     </td>
   </tr>
+    <tr>
+    <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
+      <img src="https://skillicons.dev/icons?i=vue" alt="vue" width="100" height="100"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Vue</b></span>
+    </td>
+    <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="100" height="100"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>MySQL</b></span>
+    </td>
+    <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="100" height="100"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Kubernetes</b></span>
+    </td>
+    <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
+      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="100" height="100"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Firebase</b></span>
+    </td>
+    <td align="center" style="padding: 15px; background-color: #1e1e1e; border-radius: 10px;">
+      <img src="https://skillicons.dev/icons?i=spring&theme=light" alt="Spring" width="100" height="100"><br />
+      <span style="color: #ffffff; font-size: 14px;"><b>Spring</b></span>
+  </tr>
+    
 </table>
 
 <br/><br/>
