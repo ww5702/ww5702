@@ -6,31 +6,55 @@
   />
 </a>
 
-<h3 align="center">🛠 My Tech Stack</h3>
+<h3 align="center">🛠️ My Tech Stack</h3>
 
-<!-- TechStack Generator 애니메이션 아이콘 -->
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="100" height = "100"/>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="100" height = "100" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="100" height = "100" />
-  <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="swift" width="100" height = "100"/>
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql"width="100" height = "100" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" style="padding:10px;">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="100" height="100"/><br />
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="100" height="100"/><br />
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="100" height="100"/><br />
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="Swift" width="100" height="100"/><br />
+      <sub><b>Swift</b></sub>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="100" height="100"/><br />
+      <sub><b>MySQL</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding:10px;">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="100" height="100"/><br />
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="100" height="100"/><br />
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="100" height="100"/><br />
+      <sub><b>Kotlin</b></sub>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="100" height="100"/><br />
+      <sub><b>Firebase</b></sub>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="100" height="100"/><br />
+      <sub><b>Spring</b></sub>
+    </td>
+  </tr>
+</table>
 
-
-<!-- Skill Icons 기반 정적 아이콘 -->
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="50" />
-  <img src="https://skillicons.dev/icons?i=kotlin,firebase,spring" />
-</p>
-
-<!-- 직접 제작 필요 (현재는 대체 텍스트로 표시) -->
-<p align="center">
-  <img src="https://via.placeholder.com/50x50?text=LLM" alt="LLM" />
-  <img src="https://via.placeholder.com/50x50?text=DL" alt="Deep Learning" />
-  <img src="https://via.placeholder.com/50x50?text=Streamlit" alt="Streamlit" />
-</p>
 
 
 
