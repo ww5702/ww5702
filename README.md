@@ -5,6 +5,3 @@
     height="120"
   />
 </a>
-<p align="center">
-  <img src="https://github.com/ww5702/ww5702/output/github-contribution-grid-snake.svg"/>
-</p>
