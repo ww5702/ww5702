@@ -8,24 +8,23 @@
 
 <h3 align="center">🛠 My Tech Stack</h3>
 
+<!-- TechStack Generator 애니메이션 아이콘 -->
 <p align="center">
-  <!-- TechStack Generator Icons -->
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" />
-  <img src="https://techstack-generator.vercel.app/vue-icon.svg" alt="Vue.js" width="50" />
 </p>
 
+<!-- Skill Icons 기반 정적 아이콘 -->
 <p align="center">
-  <!-- Skill Icons -->
-  <img src="https://skillicons.dev/icons?i=android,java,swift,kotlin,git,mysql,firebase,spring" alt="Additional Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,swift,kotlin,git,mysql,firebase,spring" />
 </p>
 
+<!-- 직접 제작 필요 (현재는 대체 텍스트로 표시) -->
 <p align="center">
-  <!-- Custom Icons -->
-  <img src="path_to_your_custom_llm_icon.svg" alt="LLM" width="50" />
-  <img src="path_to_your_custom_dl_icon.svg" alt="Deep Learning" width="50" />
-  <img src="path_to_your_custom_streamlit_icon.svg" alt="Streamlit" width="50" />
+  <img src="https://via.placeholder.com/50x50?text=LLM" alt="LLM" />
+  <img src="https://via.placeholder.com/50x50?text=DL" alt="Deep Learning" />
+  <img src="https://via.placeholder.com/50x50?text=Streamlit" alt="Streamlit" />
 </p>
 
 
