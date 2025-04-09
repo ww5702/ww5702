@@ -13,12 +13,16 @@
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" />
-  <img src="https://skillicons.dev/icons?i=java,swift" />
+  <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="swift" width="50"/>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="50" />
 </p>
+
 
 <!-- Skill Icons 기반 정적 아이콘 -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,git,mysql,firebase,spring" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="50" />
+  <img src="https://skillicons.dev/icons?i=kotlin,firebase,spring" />
 </p>
 
 <!-- 직접 제작 필요 (현재는 대체 텍스트로 표시) -->
