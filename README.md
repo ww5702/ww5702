@@ -1,5 +1,5 @@
 <div align="center" style="padding: 40px 0;">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=2377ff&text=Welcome&textBg=false&fontColor=B2F5EA&fontSize=50&fontAlignY=35&animation=fadeIn&desc=JaeUng%20Lee&descAlignY=63&descSize=30&fontAlign=47&descAlign=56" alt="Welcome Banner">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=2377ff&text=Welcome&textBg=false&fontColor=81E6D9&fontSize=50&fontAlignY=35&animation=fadeIn&desc=JaeUng%20Lee&descAlignY=63&descSize=30&fontAlign=47&descAlign=56" alt="Welcome Banner">
   <p style="color: #4A4A4A; font-size: 22px; max-width: 800px; line-height: 1.8; font-weight: 500;">
     "해야 하는데"에서 끝나지 않고 자기 주도적으로 사고하고 도전하는 개발자입니다.
   </p>
