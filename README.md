@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=2377ff&text=Welcome%20%20&textBg=false&fontColor=707070&fontSize=40&fontAlignY=45&animation=fadeIn&desc=JaeUng%20Lee&descAlignY=63&descSize=30&fontAlign=47&descAlign=56" alt="Backend Dev Eddie">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=2377ff&text=Welcome%20%20&textBg=false&fontColor=2E2E2E&fontSize=40&fontAlignY=45&animation=fadeIn&desc=JaeUng%20Lee&descAlignY=63&descSize=30&fontAlign=47&descAlign=56" alt="Backend Dev Eddie">
   <br/>
   <p><strong>"해야 하는데"에서 끝나지 않고 자기 주도적으로 사고하고 도전하는 개발자입니다.</strong></p>
 </div>
